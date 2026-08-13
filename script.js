@@ -1,5 +1,5 @@
 /* -------------------------------------------------------------
-   Lekshmy S Jaya - AI Infographic Portfolio Script
+   Lekshmy S Jaya 
 ------------------------------------------------------------- */
 
 document.addEventListener('DOMContentLoaded', () => {
